@@ -1,0 +1,5 @@
+*to install firebase
+    npm install -g firebase-tools
+* import material ui 
+npm install @material-ui/core
+* import icons from material ui
